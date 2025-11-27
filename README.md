@@ -1,5 +1,5 @@
 # Hi 👋, I'm Venkata Sampath Guthina
-
+![](https://komarev.com/ghpvc/?username=Venkata-sampath)
 ### A passionate Full stack developer 
 
 - 🔭 I'm currently working on **Facial Recognition Attendance system project with computer vision, python, etc.**
