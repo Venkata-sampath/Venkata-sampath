@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **Facial Recognition Attendance system project with computer vision, python, etc.**
 
-- 🌱 I'm currently learning **Reactjs and modern full stack development **
+- 🌱 I'm currently learning Reactjs and modern full stack development
 
 - 📫 How to reach me **satyaramsl72@gmail.com**
 
